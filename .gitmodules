@@ -1,0 +1,3 @@
+[submodule "modules/user-manager"]
+	path = modules/user-manager
+	url = git@github.com:containerum/user-manager.git
